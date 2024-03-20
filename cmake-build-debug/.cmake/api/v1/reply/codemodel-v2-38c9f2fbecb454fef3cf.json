@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Muhammad_Daniyal_f2022_006__Muhammad_Abdullah_f2022_141__Hizra_Shahid_042_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Muhammad_Daniyal_f2022_006__Muhammad_Abdullah_f2022_141__Hizra_Shahid_042_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Muhammad_Daniyal_f2022_006__Muhammad_Abdullah_f2022_141__Hizra_Shahid_042_-Debug-cea4f3de38753e48e3f6.json",
+					"name" : "Muhammad_Daniyal_f2022_006__Muhammad_Abdullah_f2022_141__Hizra_Shahid_042_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/daniyaltahir/Documents/oop/Muhammad Daniyal(f2022-006)-Muhammad Abdullah(f2022-141)-Hizra Shahid(042)/cmake-build-debug",
+		"source" : "/Users/daniyaltahir/Documents/oop/Muhammad Daniyal(f2022-006)-Muhammad Abdullah(f2022-141)-Hizra Shahid(042)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
